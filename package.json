@@ -4,7 +4,8 @@
   "description": "a customize babel-preset",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
   },
   "author": "appleshell",
   "license": "ISC",
@@ -21,6 +22,9 @@
     "core-js": "^3.9.1"
   },
   "devDependencies": {
-    "eslint-config-myll": "^0.0.5"
+    "commitizen": "^4.2.4",
+    "eslint-config-myll": "^0.0.5",
+    "git-cz": "^4.7.6",
+    "np": "^7.5.0"
   }
 }
