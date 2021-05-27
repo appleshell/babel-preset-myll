@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-myll",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "a customize babel-preset",
   "main": "index.js",
   "scripts": {
